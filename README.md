@@ -13,3 +13,22 @@
 ----
 ## Project Overview:
 >This project presents a comprehensive analysis of Car sales data using SQL for data extraction and cleaning, Excel for detailed analysis, and Power BI for interactive visualization and dashboard creation. The analysis explores key business metrics to provide actionable insights for sales performance optimization which are Total sales by model, Sales by region and Customer segmentation by customer profit.
+
+## Data Source:
+www.kaggle.com/dataset
+
+## Tools Outlay
+* Pivot Tables / Charts
+* PowerBI
+* SQL
+
+ ## Table Outlay
+ First three records
+
+|Car_id	|Date  |Customer Name	|Gender	|Annual Income	|Dealer_Name	|Company	|Model |Engine	|Transmission	|Color	|Price ($)	|Dealer_No 	|Body Style	|Phone	|Dealer_Region
+|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+|C_CND_000001|	1/2/2022	|Geraldine	|Male	|13500	|Buddy Storbeck's Diesel Service Inc	|Ford	|Expedition	|DoubleÃ‚Â Overhead Camshaft	|Auto	|Black	|26000	|06457-3834	|SUV	|8264678	|Middletown
+|C_CND_000002|	1/2/2022	|Gia	|Male	|1480000	|C & M Motors Inc	|Dodge	|Durango	|DoubleÃ‚Â Overhead Camshaft	|Auto	|Black	|19000	|60504-7114|	SUV	|6848189	|Aurora
+|C_CND_000003|	1/2/2022	|Gianna	|Male	|1035000	|Capitol KIA	|Cadillac	|Eldorado	|Overhead Camshaft	|Manual	|Red	|31500	|38701-8047	|Passenger	|7298798	|Greenville
+
+ 
