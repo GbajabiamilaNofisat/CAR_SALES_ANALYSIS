@@ -12,4 +12,4 @@
 
 ----
 ## Project Overview:
-> >This project presents a comprehensive analysis of Car sales data using SQL for data extraction and cleaning, Excel for detailed analysis, and Power BI for interactive visualization and dashboard creation. The analysis explores key business metrics to provide actionable insights for sales performance optimization which are Total sales by model, Sales by region and Customer segmentation by customer profit.
+>This project presents a comprehensive analysis of Car sales data using SQL for data extraction and cleaning, Excel for detailed analysis, and Power BI for interactive visualization and dashboard creation. The analysis explores key business metrics to provide actionable insights for sales performance optimization which are Total sales by model, Sales by region and Customer segmentation by customer profit.
