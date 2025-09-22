@@ -65,5 +65,6 @@ FROM [dbo].[CAR DATA];
 <img width="849" height="488" alt="CAR POWER BI DASHBOARD" src="https://github.com/user-attachments/assets/7c1e5b05-7312-4378-9814-d784ab92b29d" />
 
 ### Link to chart
+## Customer segmentation 
 
 [Link to chart](https://ibb.co/7xHqzp3m)
