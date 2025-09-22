@@ -31,4 +31,28 @@ www.kaggle.com/dataset
 |C_CND_000002|	1/2/2022	|Gia	|Male	|1480000	|C & M Motors Inc	|Dodge	|Durango	|DoubleÃ‚Â Overhead Camshaft	|Auto	|Black	|19000	|60504-7114|	SUV	|6848189	|Aurora
 |C_CND_000003|	1/2/2022	|Gianna	|Male	|1035000	|Capitol KIA	|Cadillac	|Eldorado	|Overhead Camshaft	|Manual	|Red	|31500	|38701-8047	|Passenger	|7298798	|Greenville
 
+## Query Language:
+### (SQL)
+Some of the query language i retrieve from the records are diplayed here
+
+```SQL
+---find the region with the most sales---
+  SELECT max(Price) AS Price, Dealer_Region FROM  [dbo].[CAR DATA]
+  GROUP BY Dealer_Region
+  ORDER BY Price DESC;
+
+---Profile the customer by price---
+SELECT Price,
+CASE
+WHEN Price <= 9000 THEN 'VIP' WHEN Price >= 15000 THEN 'VVIP'
+ELSE 'MVP' 
+END
+FROM [dbo].[CAR DATA];
+
+```
+
+## Visualization
+### Pivot Table
+
+
  
