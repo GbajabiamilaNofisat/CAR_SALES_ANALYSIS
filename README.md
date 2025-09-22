@@ -54,5 +54,16 @@ FROM [dbo].[CAR DATA];
 ## Visualization
 ### Pivot Table
 
+ <img width="1144" height="426" alt="PIVOT TABLE PIC" src="https://github.com/user-attachments/assets/67840255-fc85-47eb-8bef-916cadce1b00" />
 
+ ### Chart
  
+<img width="970" height="361" alt="DASHBOARD" src="https://github.com/user-attachments/assets/d54f2a94-665f-4d86-a194-1f6e2f49bfb5" />
+
+### PowerBI
+
+<img width="849" height="488" alt="CAR POWER BI DASHBOARD" src="https://github.com/user-attachments/assets/7c1e5b05-7312-4378-9814-d784ab92b29d" />
+
+### Link to chart
+
+[Link to chart](https://ibb.co/7xHqzp3m)
