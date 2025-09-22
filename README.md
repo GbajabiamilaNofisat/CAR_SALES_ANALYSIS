@@ -41,7 +41,6 @@ Some of the query language i retrieve from the records are diplayed here
   GROUP BY Dealer_Region
   ORDER BY Price DESC;
 
-```
 ---Profile the customer by price---
 SELECT Price,
 CASE
